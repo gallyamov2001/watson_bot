@@ -13,18 +13,18 @@ def get_text(url):
 
 
 
-print("Введите ссылку на документацию в html формате:\n")
+print("Введите ссылку на документацию в html формате:")
 url = input()
 text = get_text(url)
 
 try:
     while True:
         model = pipeline(model='AndrewChar/model-QA-5-epoch-RU')
-        print("Введите вопрос...\n")
+        print("Введите вопрос...")
         question = input()
         answer = model(context=text, question=question)
         print(answer['answer'])
 
 except KeyboardInterrupt:
-    print('Finished!')
+    print('Finished!\n')
 

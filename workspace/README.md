@@ -1,1 +1,1 @@
-В файле train_and_test.ipynb предоставлен процесс дообучения модели https://huggingface.co/distilbert-base-cased-distilled-squad#model-details и показаны результаты (precision, recall, f1) для дообученных моделей на тестовом датасете, который находится в папке data
+В файле train_and_test.ipynb предоставлен процесс дообучения модели https://huggingface.co/distilbert-base-cased-distilled-squad#model-details и показаны результаты (precision, recall, f1) для дообученных моделей на тестовом датасете, который находится в папке data.

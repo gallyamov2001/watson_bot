@@ -1,4 +1,4 @@
-<img src="gallyamov2001/watson_bot/Screenshot 2023-06-04 at 18.09.57.png">
+<img src="gallyamov2001/watson_bot/pic.png">
 
 # Watson bot - 
 Telegram-bot самообучения предметным областям

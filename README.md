@@ -1,4 +1,4 @@
-<img src="gallyamov2001/watson_bot/pic.png">
+<img src="pic.png">
 
 # Watson bot - 
 Telegram-bot самообучения предметным областям

@@ -35,7 +35,7 @@ def get_text(url):
     text = to_plaintext(page.text)
     return text
 
-TOKEN = "5763564557:AAH0T-sppqIrHu2QQ0vbTZ5AzeiUFDwLcDk"
+TOKEN = "YOUR TOKEN HERE"
 
 logging.basicConfig(level=logging.INFO)
 

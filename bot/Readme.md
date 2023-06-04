@@ -3,11 +3,10 @@
 !pip install tensorflow 
 !pip install transformers datasets 
 !pip install lxml 
+
 !pip install bs4 
 !pip install torch 
-
 !pip install requests 
-
 !pip install telebot
 
 Для запуска файла введите в консоли 

@@ -1,4 +1,6 @@
-Предварительно: !pip install tensorflow 
+Предварительно: 
+
+!pip install tensorflow 
 
 !pip install transformers datasets 
 

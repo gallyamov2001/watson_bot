@@ -3,7 +3,7 @@
 ## Описание проблемы
 Каждый сервис растет со временем и вместе с ростом сервиса изменяются сущности, связи между ними и правила. Такие изменения трудно отслеживаются людьми, которые задействованы в поддержке, развитии и использования сервиса. Проще говоря, документация сервиса растет и становится сложнее ее понимать. Данный бот должен помочь решить эту проблему. 
 
-Более подробное описание работы и нужных пакетов находится в <a href="https://github.com/gallyamov2001/watson_bot/tree/main/bot">bot</a>.
-В разделе <a href="https://github.com/gallyamov2001/watson_bot/tree/main/workspace">workspace</a> находятся ноутбуки, где проходило дообучение модели, сбор результатов.
-Информацию по датасету можно найти в <a href="https://github.com/gallyamov2001/watson_bot/tree/main/dataset">dataset</a>.
+### Более подробное описание работы и нужных пакетов находится в <a href="https://github.com/gallyamov2001/watson_bot/tree/main/bot">bot</a>.
+### В разделе <a href="https://github.com/gallyamov2001/watson_bot/tree/main/workspace">workspace</a> находятся ноутбуки, где проходило дообучение модели, сбор результатов.
+### Информацию по датасету можно найти в <a href="https://github.com/gallyamov2001/watson_bot/tree/main/dataset">dataset</a>.
 

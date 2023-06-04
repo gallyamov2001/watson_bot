@@ -3,19 +3,19 @@
 During inference Slovnet depends only on Numpy. Library supports Python 3.5+, PyPy 3.
 
 ```bash
-$ !pip install tensorflow 
+!pip install tensorflow 
 
-$ !pip install transformers datasets 
+!pip install transformers datasets 
 
-$!pip install lxml 
+!pip install lxml 
 
-$!pip install bs4 
+!pip install bs4 
 
-$!pip install torch 
+!pip install torch 
 
-$!pip install requests 
+!pip install requests 
 
-$!pip install telebot
+!pip install telebot
 ```
 
 Для запуска файла введите в консоли 

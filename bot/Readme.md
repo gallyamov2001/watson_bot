@@ -1,6 +1,6 @@
 ## Install
 
-During inference Slovnet depends only on Numpy. Library supports Python 3.5+, PyPy 3.
+Предварительно нужно скачать данные пакеты.
 
 ```bash
 !pip install tensorflow 
@@ -18,8 +18,10 @@ During inference Slovnet depends only on Numpy. Library supports Python 3.5+, Py
 !pip install telebot
 ```
 
-Для запуска файла введите в консоли 
+Для запуска файла введите в консоли
+```bash
 !python bot.py.
+```
 
 Рабочий бот: https://t.me/watson_beta_bot
 
